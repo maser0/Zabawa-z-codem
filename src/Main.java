@@ -117,10 +117,6 @@ public class Main {
 
 
 
-//        party.addGuest();
-//        party.addGuest();
-//        party.addGuest();
-//        party.showGuests();
 
     }
 }
